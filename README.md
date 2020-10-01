@@ -1,2 +1,2 @@
 # Power-BI
-Calendario con DAX y M
+Herramientas para trabajar en Power BI
